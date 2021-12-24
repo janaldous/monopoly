@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Space
+comment1.params=name\ requiredActions
+comment1.target=Space(java.lang.String,\ java.util.List)
+comment2.params=
+comment2.target=Space()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.util.List\ getPlayerOptions()
+comment5.params=
+comment5.target=java.util.List\ getRequiredActions()
+numComments=6

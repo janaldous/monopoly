@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PickCommunityChestCardAction
+comment1.params=context
+comment1.target=PickCommunityChestCardAction(GameContext)
+comment2.params=player
+comment2.target=java.util.Optional\ act(Player)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+numComments=4

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=name\ startingBalance
+comment1.target=Player(java.lang.String,\ int)
+comment2.params=amount
+comment2.target=int\ addMoney(int)
+comment3.params=amount
+comment3.target=int\ pay(int)
+comment4.params=
+comment4.target=int\ getBalance()
+numComments=5

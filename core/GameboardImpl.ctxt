@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=GameboardImpl
+comment1.params=spaces\ tokenPositions\ context\ communityChestCards\ chanceCards
+comment1.target=GameboardImpl(Space[],\ java.util.Map,\ GameContext,\ java.util.Queue,\ java.util.Queue)
+comment2.params=
+comment2.target=Card\ takeChanceCard()
+comment3.params=
+comment3.target=Card\ takeCommunityChestCard()
+comment4.params=token\ steps
+comment4.target=Space\ move(Token,\ int)
+comment5.params=token
+comment5.target=Space\ getSpace(Token)
+comment6.params=token
+comment6.target=int\ getPosition(Token)
+comment7.params=spaceName
+comment7.target=int\ getPositionBySpaceName(java.lang.String)
+comment8.params=spaceName
+comment8.target=Space\ getSpaceBySpaceName(java.lang.String)
+numComments=9

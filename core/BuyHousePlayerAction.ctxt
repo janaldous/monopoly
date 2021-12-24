@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BuyHousePlayerAction
+comment1.params=context
+comment1.target=BuyHousePlayerAction(GameContext)
+comment2.params=player
+comment2.target=java.util.Optional\ act(Player)
+comment3.params=player\ property
+comment3.target=boolean\ playerCanAffordApartment(Player,\ ResidentialSpace)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+numComments=5

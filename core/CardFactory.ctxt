@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CardFactory
+comment1.params=factory
+comment1.target=CardFactory(PlayerActionFactory)
+comment2.params=name
+comment2.target=Card\ createCommunityChestCard(java.lang.String)
+numComments=3

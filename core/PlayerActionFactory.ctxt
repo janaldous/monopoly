@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PlayerActionFactory
+comment1.params=bank\ context
+comment1.target=PlayerActionFactory(Bank,\ GameContext)
+comment2.params=actionName
+comment2.target=PlayerAction\ createPlayerAction(java.lang.String)
+comment3.params=amount
+comment3.target=PlayerAction\ createChargePlayerAction(int)
+comment4.params=propertyName
+comment4.target=PlayerAction\ createMovePlayerAction(java.lang.String)
+comment5.params=
+comment5.target=PlayerAction\ createBuyPropertyAction()
+comment6.params=
+comment6.target=PlayerAction\ createBuyHouseAction()
+comment7.params=
+comment7.target=PlayerAction\ createPayRentAction()
+numComments=8

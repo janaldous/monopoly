@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SpaceActionRegistry
+comment1.params=registry
+comment1.target=SpaceActionRegistry(java.util.Map)
+comment2.params=clazz
+comment2.target=SpaceActionHandler\ getHandler(java.lang.Class)
+numComments=3

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Gameboard
+comment1.params=token\ steps
+comment1.target=Space\ move(Token,\ int)
+comment2.params=
+comment2.target=Card\ takeCommunityChestCard()
+comment3.params=
+comment3.target=Card\ takeChanceCard()
+comment4.params=token
+comment4.target=int\ getPosition(Token)
+comment5.params=token
+comment5.target=Space\ getSpace(Token)
+comment6.params=spaceName
+comment6.target=int\ getPositionBySpaceName(java.lang.String)
+comment7.params=spaceName
+comment7.target=Space\ getSpaceBySpaceName(java.lang.String)
+numComments=8

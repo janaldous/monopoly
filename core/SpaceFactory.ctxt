@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SpaceFactory
+comment1.params=playerActionFactory
+comment1.target=SpaceFactory(PlayerActionFactory)
+comment2.params=spaceName
+comment2.target=Space\ createSpace(java.lang.String)
+comment3.params=propertyType\ propertyName\ value\ houseValue\ hotelValue\ siteOnlyRent\ houseRent\ hotelRent\ colorGroup
+comment3.target=Space\ createPropertySpace(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ ColorGroup)
+numComments=4

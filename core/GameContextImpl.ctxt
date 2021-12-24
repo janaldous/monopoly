@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GameContextImpl
+comment1.params=
+comment1.target=GameContextImpl()
+comment2.params=gameboard\ dice\ players\ tokens
+comment2.target=GameContextImpl(Gameboard,\ Dice,\ Player[],\ Token[])
+comment3.params=
+comment3.target=Gameboard\ getGameboard()
+comment4.params=player
+comment4.target=Token\ getPlayerToken(Player)
+comment5.params=dice
+comment5.target=void\ setDice(Dice)
+comment6.params=gameboard
+comment6.target=void\ setGameboard(Gameboard)
+comment7.params=players
+comment7.target=void\ setPlayers(Player[])
+comment8.params=tokens
+comment8.target=void\ setTokens(Token[])
+comment9.params=players
+comment9.target=void\ populateMap(Player[])
+numComments=10

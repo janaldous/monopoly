@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PlayerActionException
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PlayerActionException\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=t
+comment1.target=PlayerActionException(java.lang.Throwable)
+comment2.params=msg
+comment2.target=PlayerActionException(java.lang.String)
+numComments=3

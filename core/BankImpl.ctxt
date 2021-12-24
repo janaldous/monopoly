@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BankImpl
+comment1.params=
+comment1.target=BankImpl()
+comment2.params=value
+comment2.target=Hotel\ buyHotel(int)
+comment3.params=value
+comment3.target=House\ buyHouse(int)
+comment4.params=amount
+comment4.target=int\ withdraw(int)
+comment5.params=value
+comment5.target=void\ deposit(int)
+numComments=6

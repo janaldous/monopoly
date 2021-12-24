@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BuyPropertyPlayerAction
+comment1.params=context
+comment1.target=BuyPropertyPlayerAction(GameContext)
+comment2.params=player
+comment2.target=java.util.Optional\ act(Player)
+comment3.params=player\ property
+comment3.target=boolean\ playerCanAfford(Player,\ PropertySpace)
+comment4.params=property
+comment4.target=boolean\ hasOwner(PropertySpace)
+comment5.params=
+comment5.target=java.lang.String\ getName()
+numComments=6

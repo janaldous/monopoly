@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SpaceActionHandler
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ SpaceActionHandler\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=player\ space
+comment1.target=boolean\ handleAction(core.Player,\ core.Space)
+comment1.text=\r\n\ Method\ handleAction\r\n\r\n\ @param\ player\ A\ parameter\r\n\ @param\ space\ A\ parameter\r\n\ @return\ true\ if\ player\ has\ one\ more\ go\r\n
+numComments=2

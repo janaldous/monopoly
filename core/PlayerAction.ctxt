@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PlayerAction
+comment1.params=player
+comment1.target=java.util.Optional\ act(Player)
+comment1.text=\r\n\ Method\ act\r\n\r\n\ @param\ player\ player\ that\ will\ have\ to\ carry\ out\ action\r\n\ @return\ not\ null\ if\ there\ are\ succeeding\ actions\ (i.e.\ Community\ Chest\ card\ needed\ action)\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+numComments=3
